@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Jojo! 👋
+
+I'm a high school junior who has a strong interest in cybersecurity, specifically penetration testing, along with programming (Python & C++ eventually)
+I am currently working on a Windows event log analyzer made in Python
+Tools: Python, Java, HTML/CSS, JavaScript, VSCode, Ollama
+
+You can reach me at my Github, or at my Linkedin in my description
 
 <!--
 **jojorhee/jojorhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
